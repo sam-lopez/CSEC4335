@@ -1,0 +1,5 @@
+Samantha Lopez-Montano
+RSA, 2048, 3/1/12, never expire
+
+I think that GPG is quite user-friendly. I have used many different linux applications and some of them are quite convoluted. The manual and help pages for gpg however are detailed and quite straightforward. Even when I got confused on something I would easily find references and documentation online on how to run a certain command. I will say that using the Kleopatra GUI was even more user-friendly as I did not need to look up what the commands were. I will say that weirdly it created my key as RSA 3072 even though I had selected RSA 2048 bits. 
+Overall, I enjoyed working on this assignment and had an easy time working on it and sharing my key with a peer Samuel Games. I think that the web of trust model is okay, however, someone else could have typed my name and an arbitrary email address and posted it on the server and if whoever I am communicating with did not properly check with me on the fingerprint, then they could be having a digital signature from someone else talking with them thinking it is me but it is not. 
